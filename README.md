@@ -22,12 +22,14 @@ Um dieses Jupyter Notebook auszuführen, müssen Sie dem Link des oben genannten
 
 Daten laden und vorbereiten: Lesen Sie die Daten aus der Datei advertising.csv in einen DataFrame ein und untersuchen Sie die Daten mit den Methoden info() und describe(). Dies gibt Ihnen einen Überblick über die Datenstruktur und die Verteilung der verschiedenen Merkmale.
 
-Daten visualisieren: Verwenden Sie die Bibliothek Seaborn, um verschiedene Visualisierungen der Daten zu erstellen. Zum Beispiel:
+Daten visualisieren: Verwenden Sie die Bibliothek Seaborn, um verschiedene Visualisierungen der Daten zu erstellen. 
+
+Zum Beispiel:
 
 Erstellen Sie ein Histogramm, um die Altersverteilung der Nutzer zu sehen.
 Verwenden Sie Jointplots, um die Beziehung zwischen dem Einkommen der Region und dem Alter, sowie zwischen der täglichen Internetnutzung und der Zeit, die auf der Webseite verbracht wird, zu untersuchen.
 Nutzen Sie ein Pairplot, um die Datenverteilung basierend darauf zu sehen, ob auf die Anzeige geklickt wurde oder nicht.
-Daten aufteilen: Teilen Sie die Daten in ein Trainings- und ein Testset auf, um das Modell zu trainieren und später zu evaluieren. Dabei verwenden Sie die Merkmale 'Daily Time Spent on Site', 'Age', 'Area Income', 'Daily Internet Usage' und 'Male' als unabhängige Variablen (X) und 'Clicked on Ad' als Zielvariable (y).
+Daten aufteilen: Teilen Sie die Daten in ein Trainings- und ein Testset auf, um das Modell zu trainieren und später zu evaluieren. Dabei verwenden Sie die Merkmale "Daily Time Spent on Site", "Age", "Area Income", "Daily Internet Usage" und "Male" als unabhängige Variablen (X) und "Clicked on Ad" als Zielvariable (y).
 
 Modell trainieren: Trainieren Sie ein logistisches Regressionsmodell mit dem Trainingsset. Dies lernt die Beziehung zwischen den Nutzermerkmalen und der Wahrscheinlichkeit, dass auf die Anzeige geklickt wird.
 
