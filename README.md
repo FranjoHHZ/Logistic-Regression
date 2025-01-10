@@ -37,3 +37,7 @@ Vorhersagen und Evaluierung: Nutzen Sie das trainierte Modell, um Vorhersagen f√
 
 # Binder Badge
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/Logistic-Regression/HEAD)
+
+# Erwartete Ergbnisse
+![image](https://github.com/user-attachments/assets/746d880d-4433-484f-a86e-fd83759b3fcc)
+
