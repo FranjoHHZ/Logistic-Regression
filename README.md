@@ -42,6 +42,8 @@ Vorhersagen und Evaluierung: Nutzen Sie das trainierte Modell, um Vorhersagen f�
 
 # Aufürhung in Colabs
 
+Klicken Sie auf den folgenden Badge, um das Projekt direkt auf Google Colab zu öffnen. Bitte führen Sie dort durch das Drücken "Shift"+ "Enter" die Befehle aus oder klicken Sie auf den Reiter "Laufzeit" und dann auf "Alles ausführen".
+
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Logistic-Regression/blob/main/3_Logistische_Regression_Projekt_Loesung.ipynb)
 
 # Erwartete Ergbnisse
