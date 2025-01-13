@@ -47,6 +47,6 @@ Vorhersagen und Evaluierung: Nutzen Sie das trainierte Modell, um Vorhersagen fÃ
 # Erwartete Ergbnisse
 Der Klassifizierungsreport zeigt diese Werte:
 
+![image](https://github.com/user-attachments/assets/a1bb6f03-0388-4575-a2ec-543e1d48a6fa)
 
-![image](https://github.com/user-attachments/assets/746d880d-4433-484f-a86e-fd83759b3fcc)
 
