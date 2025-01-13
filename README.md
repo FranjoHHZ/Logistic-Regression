@@ -38,6 +38,12 @@ Vorhersagen und Evaluierung: Nutzen Sie das trainierte Modell, um Vorhersagen f√
 # Binder Badge
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/Logistic-Regression/HEAD)
 
+
+
+# Auf√ºrhung in Colabs
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Logistic-Regression/blob/main/Logistic%20Regression/3-Logistische_Regression_Projekt-Loesung.ipynb)
+
 # Erwartete Ergbnisse
 Der Klassifizierungsreport zeigt diese Werte:
 
