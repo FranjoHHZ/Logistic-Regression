@@ -42,7 +42,7 @@ Vorhersagen und Evaluierung: Nutzen Sie das trainierte Modell, um Vorhersagen f√
 
 # Auf√ºrhung in Colabs
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Logistic-Regression/blob/main/Logistic%20Regression/3-Logistische_Regression_Projekt-Loesung.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Logistic-Regression/blob/main/3_Logistische_Regression_Projekt_Loesung.ipynb)
 
 # Erwartete Ergbnisse
 Der Klassifizierungsreport zeigt diese Werte:
